@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b95e9"],{"333f":function(n,e,t){"use strict";t.r(e);var o=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[t("p",[n._v("当前页面不存在，请检查地址是否正确")]),t("p",[t("router-link",{attrs:{to:"/money"}},[n._v("返回首页")])],1)])},r=[],a={name:"NotFind"},c=a,u=t("2877"),i=Object(u["a"])(c,o,r,!1,null,"1bba9c08",null);e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0b95e9.e83c4145.js.map
